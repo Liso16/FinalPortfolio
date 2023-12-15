@@ -73,7 +73,13 @@ h11 {
     text-align: left;   
 }
 h12 {
-    ont-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color: green;
+    text-align: left;
+}
+h13 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 25px;
     color: green;
     text-align: left;
