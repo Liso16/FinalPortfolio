@@ -42,3 +42,9 @@ h6 {
     color: green;
     text-align: left;
 }
+h7 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10px;
+    color: green;
+    text-align: left; 
+}
